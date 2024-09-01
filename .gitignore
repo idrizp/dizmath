@@ -1,0 +1,46 @@
+# Ignore binary files
+*.o
+*.exe
+
+# Ignore vscode directory
+.vscode/
+
+# Ignore object files
+*.obj
+
+# Ignore IDE project files
+*.suo
+*.sdf
+*.user
+
+# Ignore generated files
+*.bak
+*.tmp
+*.swp
+
+# Ignore debug files
+*.dbg
+*.pdb
+
+# Ignore Visual Studio settings
+.vs/
+
+# Ignore Visual Studio test settings
+.testsettings
+
+# Ignore Windows Debug Symbols
+*.pdb
+
+# Ignore Intel C++ Compiler database files
+*.irods
+
+# Ignore Linux object files, test results and debug symbols
+*.lo
+*.gdb
+*.o-*
+
+# Ignore GCC compiler database files
+*~
+
+# Ignore FSEvents files (for MacOS)
+.DS_Store
